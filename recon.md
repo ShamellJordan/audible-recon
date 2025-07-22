@@ -1,3 +1,17 @@
+## Subdomain Discovery (Amass)
+
+Ran: `amass enum -passive -d audible.com -o subdomains.txt`
+
+Discovered 1,071 unique subdomains related to audible.com using passive reconnaissance.
+
+Subdomains saved to `subdomains.txt`
+
+Examples:
+- www.audible.com
+- api.audible.com
+- mobile.audible.com
+- help.audible.com
+
 # WHOIS Results for audible.com
 
 - Registrar: MarkMonitor Inc.
